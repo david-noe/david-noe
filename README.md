@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @david-noe
-- 👀 I’m interested in building beautiful software
-- 🌱 I’m currently learning Python Data Science
-- 💞️ I’m looking to collaborate on tasty.kiwi recipes website
-- 📫 How to reach me https://davidnoe.ch
+👋 Hi, I’m @david-noe
